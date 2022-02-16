@@ -1,1 +1,3 @@
-# Feb-16-assignment-1
+=int(input())
+for i in range(0,n):
+    print(i*i)
